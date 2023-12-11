@@ -78,6 +78,7 @@ main h1{
     color: #606C38;
     font-family: 'life savers';
 }
+
 main p{
     color: #DDA15E;
     font-family: 'kotta one' ;
@@ -203,3 +204,38 @@ footer p a:hover {
     }
 }
 
+/* Sub page 1 (Disehes) */
+.page_2 a{
+    color: brown;
+}
+
+.dishes-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+main div{
+    text-align: center;
+}
+.dish-img{
+    max-width: 320px;
+    height: 280px;
+    float: left;
+    border-radius: 8px;
+    margin: 30px;
+}
+
+.food-history{
+    font-size: 1.6rem;
+}
+
+main h1, main h2{
+    color: #606C38;
+    font-family: 'life savers';
+}
+
+
+/* Sub page 2 ( cooking steps) */
