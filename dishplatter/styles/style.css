@@ -245,3 +245,40 @@ main h1, main h2{
 
 
 /* Sub page 2 ( cooking steps) */
+
+.steps-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+.steps-img-one{
+    max-width: 320px;
+    height: 280px;
+    float: right;
+    border-radius: 8px;
+    margin: 30px;
+}
+
+
+.steps-img-two{
+    max-width: 320px;
+    height: 280px;
+    float: left;
+    border-radius: 8px;
+    margin: 30px;
+}
+
+
+.steps-img-three{
+    max-width: 320px;
+    height: 280px;
+    float: right;
+    border-radius: 8px;
+    margin: 30px;
+}
+ main p{
+    font-size: 1.4rem;
+ }
