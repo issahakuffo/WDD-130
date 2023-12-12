@@ -205,8 +205,14 @@ footer p a:hover {
 }
 
 /* Sub page 1 (Disehes) */
+
+#hero-box img{
+    width: 100%;
+}
+
 .page_2 a{
-    color: brown;
+    color: gray;
+    font-size: 1.3rem;
 }
 
 .dishes-grid{
